@@ -7,9 +7,9 @@ Bellabeat was founded in 2013. A high-tech company that manufactures health-focu
 The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
 
 ## Table of Contents
-* [Background](background)
-* [Data Source](data-source)
-* [Suggestion](Suggestion)
+* [Background](#background)
+* [Data Source](#data-source)
+* [Suggestion](#suggestion)
 
 ## Background
 
