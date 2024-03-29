@@ -1,4 +1,7 @@
 # BellaBeat EDA
+
+![1_SjEGKrjDp7skk4URhzW5Nw](https://github.com/karlyndiary/BellaBeat-EDA/assets/116041695/38520129-fd4f-437b-84f2-43e7dbacbb7b)
+
 Bellabeat was founded in 2013. A high-tech company that manufactures health-focused wellness, smart devices, and products for women. By 2016, the company has grown globally and had become available to many online retailers and also including its own [website](https://bellabeat.com/).
 
 The Bellabeat app provides users with health data related to their activity, sleep, stress, menstrual cycle, and mindfulness habits. This data can help users better understand their current habits and make healthy decisions. The Bellabeat app connects to their line of smart wellness products.
